@@ -1,0 +1,103 @@
+2015-12-28 14:10:42,910 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): Using SLF4J as the default logging framework
+2015-12-28 14:10:42,930 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.eventLoopThreads: 8
+2015-12-28 14:10:42,964 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): java.nio.Buffer.address: available
+2015-12-28 14:10:42,968 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): sun.misc.Unsafe.theUnsafe: available
+2015-12-28 14:10:42,969 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): sun.misc.Unsafe.copyMemory: available
+2015-12-28 14:10:42,969 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): java.nio.Bits.unaligned: true
+2015-12-28 14:10:42,969 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): Platform: Windows
+2015-12-28 14:10:42,971 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): Java version: 8
+2015-12-28 14:10:42,971 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noUnsafe: false
+2015-12-28 14:10:42,971 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): sun.misc.Unsafe: available
+2015-12-28 14:10:42,972 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noJavassist: false
+2015-12-28 14:10:42,973 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): Javassist: unavailable
+2015-12-28 14:10:42,973 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2015-12-28 14:10:42,973 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.tmpdir: C:\Users\006891\AppData\Local\Temp (java.io.tmpdir)
+2015-12-28 14:10:42,974 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.bitMode: 32 (sun.arch.data.model)
+2015-12-28 14:10:42,975 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noPreferDirect: false
+2015-12-28 14:10:43,074 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noKeySetOptimization: false
+2015-12-28 14:10:43,074 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.selectorAutoRebuildThreshold: 512
+2015-12-28 14:10:43,500 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): -Dio.netty.initialSeedUniquifier: 0x98fc9afbccc260e3 (took 66 ms)
+2015-12-28 14:10:43,612 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.allocator.type: unpooled
+2015-12-28 14:10:43,613 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.threadLocalDirectBufferSize: 65536
+2015-12-28 14:10:43,613 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2015-12-28 14:10:43,670 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:86): Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2015-12-28 14:10:43,671 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:81): \proc\sys\net\core\somaxconn: 200 (non-existent)
+2015-12-28 14:10:43,713 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c] REGISTERED
+2015-12-28 14:10:43,714 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c] BIND(0.0.0.0/0.0.0.0:14736)
+2015-12-28 14:10:43,722 [INFO] io.netty.example.echo.EchoServer.main(EchoServer.java:81): server start ...
+2015-12-28 14:10:43,725 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] ACTIVE
+2015-12-28 14:10:49,913 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): Using SLF4J as the default logging framework
+2015-12-28 14:10:49,919 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.eventLoopThreads: 8
+2015-12-28 14:10:49,929 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): java.nio.Buffer.address: available
+2015-12-28 14:10:49,932 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): sun.misc.Unsafe.theUnsafe: available
+2015-12-28 14:10:49,933 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): sun.misc.Unsafe.copyMemory: available
+2015-12-28 14:10:49,933 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): java.nio.Bits.unaligned: true
+2015-12-28 14:10:49,933 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): Platform: Windows
+2015-12-28 14:10:49,934 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): Java version: 8
+2015-12-28 14:10:49,934 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noUnsafe: false
+2015-12-28 14:10:49,934 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): sun.misc.Unsafe: available
+2015-12-28 14:10:49,934 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noJavassist: false
+2015-12-28 14:10:49,935 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): Javassist: unavailable
+2015-12-28 14:10:49,935 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2015-12-28 14:10:49,935 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.tmpdir: C:\Users\006891\AppData\Local\Temp (java.io.tmpdir)
+2015-12-28 14:10:49,936 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.bitMode: 32 (sun.arch.data.model)
+2015-12-28 14:10:49,936 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noPreferDirect: false
+2015-12-28 14:10:49,965 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noKeySetOptimization: false
+2015-12-28 14:10:49,965 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.selectorAutoRebuildThreshold: 512
+2015-12-28 14:10:50,267 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): -Dio.netty.initialSeedUniquifier: 0x6b9bd01cc3f98a78 (took 2 ms)
+2015-12-28 14:10:50,319 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.allocator.type: unpooled
+2015-12-28 14:10:50,319 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.threadLocalDirectBufferSize: 65536
+2015-12-28 14:10:50,319 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2015-12-28 14:10:50,381 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:81): -Dio.netty.buffer.bytebuf.checkAccessible: true
+2015-12-28 14:10:50,400 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:81): -Dio.netty.leakDetection.level: simple
+2015-12-28 14:10:50,400 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:81): -Dio.netty.leakDetection.maxRecords: 4
+2015-12-28 14:11:34,692 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): Using SLF4J as the default logging framework
+2015-12-28 14:11:34,699 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.eventLoopThreads: 8
+2015-12-28 14:11:34,709 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): java.nio.Buffer.address: available
+2015-12-28 14:11:34,711 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): sun.misc.Unsafe.theUnsafe: available
+2015-12-28 14:11:34,711 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): sun.misc.Unsafe.copyMemory: available
+2015-12-28 14:11:34,711 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): java.nio.Bits.unaligned: true
+2015-12-28 14:11:34,711 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): Platform: Windows
+2015-12-28 14:11:34,712 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): Java version: 8
+2015-12-28 14:11:34,712 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noUnsafe: false
+2015-12-28 14:11:34,712 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): sun.misc.Unsafe: available
+2015-12-28 14:11:34,712 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noJavassist: false
+2015-12-28 14:11:34,713 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): Javassist: unavailable
+2015-12-28 14:11:34,713 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2015-12-28 14:11:34,713 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.tmpdir: C:\Users\006891\AppData\Local\Temp (java.io.tmpdir)
+2015-12-28 14:11:34,714 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.bitMode: 32 (sun.arch.data.model)
+2015-12-28 14:11:34,714 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noPreferDirect: false
+2015-12-28 14:11:34,743 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.noKeySetOptimization: false
+2015-12-28 14:11:34,743 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.selectorAutoRebuildThreshold: 512
+2015-12-28 14:11:34,957 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:71): -Dio.netty.initialSeedUniquifier: 0xe0efc4a6379794fe (took 2 ms)
+2015-12-28 14:11:34,998 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.allocator.type: unpooled
+2015-12-28 14:11:34,998 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.threadLocalDirectBufferSize: 65536
+2015-12-28 14:11:34,998 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2015-12-28 14:11:35,020 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:81): -Dio.netty.buffer.bytebuf.checkAccessible: true
+2015-12-28 14:11:35,023 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:81): -Dio.netty.leakDetection.level: simple
+2015-12-28 14:11:35,023 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:81): -Dio.netty.leakDetection.maxRecords: 4
+2015-12-28 14:11:35,032 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): -Dio.netty.recycler.maxCapacity.default: 262144
+2015-12-28 14:11:35,032 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] RECEIVED: [id: 0x596fbebc, /127.0.0.1:64978 => /127.0.0.1:14736]
+2015-12-28 14:11:35,033 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] RECEIVED: [id: 0x4102f362, /127.0.0.1:64979 => /127.0.0.1:14736]
+2015-12-28 14:11:35,035 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] RECEIVED: [id: 0x1834a171, /127.0.0.1:64980 => /127.0.0.1:14736]
+2015-12-28 14:11:35,038 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] RECEIVED: [id: 0xd1683df4, /127.0.0.1:64981 => /127.0.0.1:14736]
+2015-12-28 14:11:35,039 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] RECEIVED: [id: 0x658651ff, /127.0.0.1:64982 => /127.0.0.1:14736]
+2015-12-28 14:11:35,040 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] RECEIVED: [id: 0xcd40a180, /127.0.0.1:64983 => /127.0.0.1:14736]
+2015-12-28 14:11:35,041 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] RECEIVED: [id: 0x463603cf, /127.0.0.1:64984 => /127.0.0.1:14736]
+2015-12-28 14:11:35,042 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] RECEIVED: [id: 0xa1a7d805, /127.0.0.1:64985 => /127.0.0.1:14736]
+2015-12-28 14:11:35,056 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] RECEIVED: [id: 0xc0de6276, /127.0.0.1:64986 => /127.0.0.1:14736]
+2015-12-28 14:11:35,057 [INFO] io.netty.util.internal.logging.Slf4JLogger.info(Slf4JLogger.java:101): [id: 0x5ce5d32c, /0:0:0:0:0:0:0:0:14736] RECEIVED: [id: 0xcf4595bb, /127.0.0.1:64987 => /127.0.0.1:14736]
+2015-12-28 14:11:35,060 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:81): -Dio.netty.buffer.bytebuf.checkAccessible: true
+2015-12-28 14:11:35,063 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:81): -Dio.netty.leakDetection.level: simple
+2015-12-28 14:11:35,063 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:81): -Dio.netty.leakDetection.maxRecords: 4
+2015-12-28 14:11:35,067 [INFO] io.netty.example.echo.EchoServerHandler.channelRead(EchoServerHandler.java:42): /127.0.0.1:64983:hello message 5
+2015-12-28 14:11:35,067 [INFO] io.netty.example.echo.EchoServerHandler.channelRead(EchoServerHandler.java:42): /127.0.0.1:64982:hello message 4
+2015-12-28 14:11:35,067 [INFO] io.netty.example.echo.EchoServerHandler.channelRead(EchoServerHandler.java:42): /127.0.0.1:64980:hello message 2
+2015-12-28 14:11:35,067 [INFO] io.netty.example.echo.EchoServerHandler.channelRead(EchoServerHandler.java:42): /127.0.0.1:64984:hello message 6
+2015-12-28 14:11:35,067 [INFO] io.netty.example.echo.EchoServerHandler.channelRead(EchoServerHandler.java:42): /127.0.0.1:64985:hello message 7
+2015-12-28 14:11:35,067 [INFO] io.netty.example.echo.EchoServerHandler.channelRead(EchoServerHandler.java:42): /127.0.0.1:64978:hello message 0
+2015-12-28 14:11:35,067 [INFO] io.netty.example.echo.EchoServerHandler.channelRead(EchoServerHandler.java:42): /127.0.0.1:64981:hello message 3
+2015-12-28 14:11:35,067 [INFO] io.netty.example.echo.EchoServerHandler.channelRead(EchoServerHandler.java:42): /127.0.0.1:64979:hello message 1
+2015-12-28 14:11:35,068 [INFO] io.netty.example.echo.EchoServerHandler.channelRead(EchoServerHandler.java:42): /127.0.0.1:64986:hello message 8
+2015-12-28 14:11:35,069 [INFO] io.netty.example.echo.EchoServerHandler.channelRead(EchoServerHandler.java:42): /127.0.0.1:64987:hello message 9
+2015-12-28 15:41:17,479 [DEBUG] io.netty.util.internal.logging.Slf4JLogger.debug(Slf4JLogger.java:76): java.nio.ByteBuffer.cleaner(): available

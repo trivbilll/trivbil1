@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="demo"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_51"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/all-in-one/netty-all-4.0.33.Final.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/all-in-one/netty-all-4.0.33.Final-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/javalib/thirdlib/netty/netty-4.0.33.Final/javadoc/netty-all-4.0.33.Final-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/software/apache-maven-repo/com/google/guava/guava/18.0/guava-18.0.jar" sourcepath="D:/software/apache-maven-repo/com/google/guava/guava/18.0/guava-18.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-codec-4.0.33.Final.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-codec-4.0.33.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-codec-http-4.0.33.Final.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-codec-http-4.0.33.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-codec-socks-4.0.33.Final.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-codec-socks-4.0.33.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-common-4.0.33.Final.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-common-4.0.33.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-example-4.0.33.Final.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-example-4.0.33.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/protocolbuffer-2.6.1/protobuf-java-2.6.1.jar" sourcepath="D:/javalib/thirdlib/protocolbuffer-2.6.1/protobuf-java-2.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-transport-udt-4.0.33.Final.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-transport-udt-4.0.33.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-transport-sctp-4.0.33.Final.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-transport-sctp-4.0.33.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-transport-rxtx-4.0.33.Final.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-transport-rxtx-4.0.33.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-tcnative-1.1.33.Fork10-linux-x86_64-fedora.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-tcnative-1.1.33.Fork10-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-transport-4.0.33.Final.jar" sourcepath="D:/javalib/thirdlib/netty/netty-4.0.33.Final/jar/netty-transport-4.0.33.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javalib/thirdlib/netty/barchart-udt-bundle-2.3.0.jar" sourcepath="D:/javalib/thirdlib/netty/barchart-udt-bundle-2.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/software/apache-maven-repo/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/software/apache-maven-repo/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/software/apache-maven-repo/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
